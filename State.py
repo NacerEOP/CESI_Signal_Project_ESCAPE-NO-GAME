@@ -1,0 +1,9 @@
+OptionsFrame = None
+RLabel = None
+ClientIPtext = None
+WaveCanvas = None
+RecieveState = False
+RunningThread = None
+ReceptThread = None
+Status = None
+GraphThread = None
