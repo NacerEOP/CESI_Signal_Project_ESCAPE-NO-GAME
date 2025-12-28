@@ -1,6 +1,9 @@
 # CESI_Signal_Project_ESCAPE-NO-GAME
 L'agence AIL3C, Nous travaillons sur un projet suite à la perte de l'agent K57, qui a été piégé dans une salle sans réseau pendant une mission. Cette situation met en évidence le besoin d'une solution pour permettre la communication dans de telles conditions.
 
+lien build .exe: https://drive.google.com/file/d/1-1sPHxsERbnmOre626StSMXaOQiOxvRL/view?usp=sharing
+<img width="1399" height="778" alt="image" src="https://github.com/user-attachments/assets/731158cd-4759-4cf2-889d-a772a536b993" />
+
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d71630fa-d8f7-46dd-8944-7f3f846c3f62" />
 
 Ce projet, intitulé ESCAPE NO GAME, nous plaçait dans une démarche complète de conception en ingénierie visant à répondre à une problématique critique de communication en milieu contraint. À partir d’un scénario mettant en scène un agent isolé sans accès réseau ni communication radio, disposant uniquement d’un micro relié à un système d’audioconférence, l’objectif était d’imaginer une solution scientifiquement viable permettant une communication discrète vers l’extérieur. Le projet s’inscrivait dans une logique de recherche et développement et devait aboutir à la réalisation et à la démonstration d’un Proof of Concept entièrement modélisé et simulé.
